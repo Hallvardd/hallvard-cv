@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import"../chunks/Bb_Y3Xni.js";import{j as s,k as t}from"../chunks/DEG2zhy1.js";var p=s(`<body class="svelte-1648uup"><div id="box" class="svelte-1648uup"><h1 class="svelte-1648uup">Welcome to my homepage!</h1> <p class="svelte-1648uup">It's under construction</p></div></body>`);function l(o){var e=p();t(o,e)}export{l as component};
