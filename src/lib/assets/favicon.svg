@@ -14,26 +14,29 @@
   <g
      id="layer2">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#ff6c14;stroke-width:4.57224;stroke-dasharray:none;stroke-opacity:1"
-       d="M 69.04086,160.02848 V 79.328406 h 80.92869 80.92869 v 80.700074 80.70008 H 149.96955 69.04086 Z"
-       id="path9474"
-       transform="scale(0.26458333)" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff6c14;stroke-width:1.20974;stroke-dasharray:none;stroke-opacity:1"
+       d="M 18.267062,42.340871 V 20.988976 H 39.679444 61.091826 V 42.340871 63.692767 H 39.679444 18.267062 Z"
+       id="path9474" />
   </g>
   <g
      id="layer1">
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#ff6c14;stroke-width:2.36702;stroke-dasharray:none;stroke-opacity:1"
-       id="rect592"
-       width="45.25798"
-       height="45.257984"
-       x="17.05851"
-       y="19.704344" />
-    <rect
-       style="fill:#ff6c14;fill-opacity:1;stroke:none;stroke-width:4.01238;stroke-dasharray:none;stroke-opacity:1"
-       id="rect7165"
-       width="31.75"
-       height="5.5562501"
-       x="15.875"
-       y="13.229167" />
+    <g
+       id="g9585"
+       transform="translate(0,1.3229167)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ff6c14;stroke-width:7.8959;stroke-dasharray:none;stroke-opacity:1"
+         id="rect592"
+         width="45.020771"
+         height="45.020767"
+         x="17.177116"
+         y="19.82295" />
+      <rect
+         style="fill:#ff6c14;fill-opacity:1;stroke:none;stroke-width:5.6518;stroke-dasharray:none;stroke-opacity:1"
+         id="rect7165"
+         width="33.072918"
+         height="10.583333"
+         x="13.229167"
+         y="7.9375" />
+    </g>
   </g>
 </svg>
