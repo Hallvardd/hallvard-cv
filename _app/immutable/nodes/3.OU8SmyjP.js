@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import"../chunks/Bb_Y3Xni.js";import{j as r,k as a}from"../chunks/DEG2zhy1.js";var p=r('<div class="heart svelte-1tz4h87"></div>');function s(o){var t=p();a(o,t)}export{s as component};
