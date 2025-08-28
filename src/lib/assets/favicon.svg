@@ -12,31 +12,18 @@
   <defs
      id="defs2" />
   <g
-     id="layer2">
+     id="layer3"
+     style="display:inline;fill:none">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#ff6c14;stroke-width:1.20974;stroke-dasharray:none;stroke-opacity:1"
-       d="M 18.267062,42.340871 V 20.988976 H 39.679444 61.091826 V 42.340871 63.692767 H 39.679444 18.267062 Z"
-       id="path9474" />
-  </g>
-  <g
-     id="layer1">
-    <g
-       id="g9585"
-       transform="translate(0,1.3229167)">
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#ff6c14;stroke-width:7.8959;stroke-dasharray:none;stroke-opacity:1"
-         id="rect592"
-         width="45.020771"
-         height="45.020767"
-         x="17.177116"
-         y="19.82295" />
-      <rect
-         style="fill:#ff6c14;fill-opacity:1;stroke:none;stroke-width:5.6518;stroke-dasharray:none;stroke-opacity:1"
-         id="rect7165"
-         width="33.072918"
-         height="10.583333"
-         x="13.229167"
-         y="7.9375" />
-    </g>
+       id="path1889"
+       style="display:inline;fill:#ff6c14;fill-opacity:1;stroke:none;stroke-width:9.43882;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40.000142 0.99993896 A 39 39 0 0 0 0.99993896 40.000142 A 39 39 0 0 0 40.000142 78.999829 A 39 39 0 0 0 78.999829 40.000142 A 39 39 0 0 0 40.000142 0.99993896 z M 16.999996 19.999813 L 45.750179 19.999813 L 45.750179 25.714193 L 62.999772 25.714193 L 62.999772 59.999955 L 16.999996 59.999955 L 16.999996 26.856759 L 16.999996 25.714193 L 16.999996 19.999813 z " />
+    <rect
+       style="fill:#ff6c14;fill-rule:evenodd;stroke-width:0.268864;fill-opacity:1"
+       id="rect9998"
+       width="36"
+       height="26"
+       x="22"
+       y="30" />
   </g>
 </svg>
